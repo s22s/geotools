@@ -221,5 +221,11 @@
         <module>arcgis-rest</module>
       </modules>
     </profile>
+    <profile>
+      <id>kml</id>
+      <modules>
+        <module>kml</module>
+      </modules>
+    </profile>
   </profiles>
 </project>
